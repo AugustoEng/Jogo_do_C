@@ -27,6 +27,7 @@ O jogo carrega todas as suas perguntas de um arquivo perguntas.json externo, per
 ---
 
 ## Compilação
+* Deve se dar o comando de compilação dentro da pasta ..\Jodo_do_C\Jogo, onde estão os arquivos.c
 
 No Linux/macOS (terminal):
 
